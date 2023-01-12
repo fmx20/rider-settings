@@ -1,0 +1,15 @@
+<application>
+	<component name="PropertiesComponent"><![CDATA[{
+	  "keyToString": {
+		"RunOnceActivity.OpenProjectViewOnStart": "true",
+		"RunOnceActivity.ShowReadmeOnStart": "true",
+		"WebServerToolWindowFactoryState": "false",
+		"node.js.detected.package.eslint": "true",
+		"node.js.selected.package.eslint": "(autodetect)",
+		"rider.code.cleanup.on.save": "true",
+		"rider.code.cleanup.on.save.profile": "BK Cleanup",
+		"settings.editor.selected.configurable": "preferences.lookFeel",
+		"vue.rearranger.settings.migration": "true"
+	  }
+	}]]></component>
+</application>
